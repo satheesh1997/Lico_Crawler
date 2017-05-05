@@ -1,0 +1,7 @@
+author | Satheesh Kumar
+og:site_name | TECH TRENDZ
+og:title | TECH TRENDZ | INDEX
+og:type | webpage
+og:image | ./images/slide1.jpg
+og:description | TECH TRENDZ Is One Of The Leading Technology Blog From India Implemented With A Goal To Spread The Knowledge On Technology.
+fb:app_id | 1326818747389673

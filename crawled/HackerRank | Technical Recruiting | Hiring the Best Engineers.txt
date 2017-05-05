@@ -1,0 +1,7 @@
+og:title | HackerRank
+og:image | https://hrcdn.net/og/default.jpg
+og:description | Join over 2 million developers in solving code challenges on HackerRank, one of the best ways to prepare for programming interviews.
+og:url | https://www.hackerrank.com/
+og:site_name | HackerRank
+og:type | website
+fb:app_id | 347499128655783

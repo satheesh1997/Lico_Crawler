@@ -1,0 +1,7 @@
+og:title | Yahoo
+og:type | website
+og:url | http://in.yahoo.com
+og:description | News, email and search are just the beginning. Discover more every day. Find your yodel.
+og:image | https://s.yimg.com/dh/ap/default/130909/y_200_a.png
+og:site_name | Yahoo
+fb:app_id | 90376669494
